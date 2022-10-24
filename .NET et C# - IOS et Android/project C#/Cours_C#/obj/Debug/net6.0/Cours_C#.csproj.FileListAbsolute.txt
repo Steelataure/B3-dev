@@ -1,0 +1,15 @@
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\bin\Debug\net6.0\Cours_C#.exe
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\bin\Debug\net6.0\Cours_C#.deps.json
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\bin\Debug\net6.0\Cours_C#.runtimeconfig.json
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\bin\Debug\net6.0\Cours_C#.dll
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\bin\Debug\net6.0\Cours_C#.pdb
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\Cours_C#.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\Cours_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\Cours_C#.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\Cours_C#.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\Cours_C#.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\Cours_C#.dll
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\refint\Cours_C#.dll
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\Cours_C#.pdb
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\Cours_C#.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Bureau\B3 Dev\.NET et C# - IOS et Android\project C#\Cours_C#\obj\Debug\net6.0\ref\Cours_C#.dll
