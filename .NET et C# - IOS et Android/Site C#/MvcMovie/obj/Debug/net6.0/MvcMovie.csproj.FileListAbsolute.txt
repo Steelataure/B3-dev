@@ -1,0 +1,78 @@
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\bin\Debug\net6.0\appsettings.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\bin\Debug\net6.0\MvcMovie.staticwebassets.runtime.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\bin\Debug\net6.0\MvcMovie.exe
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\bin\Debug\net6.0\MvcMovie.deps.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\bin\Debug\net6.0\MvcMovie.runtimeconfig.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\bin\Debug\net6.0\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\bin\Debug\net6.0\MvcMovie.pdb
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.AssemblyInfo.cs
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\refint\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.pdb
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\MvcMovie.genruntimeconfig.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\project C# + TP_C#\site c#\MvcMovie\obj\Debug\net6.0\ref\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\bin\Debug\net6.0\appsettings.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\bin\Debug\net6.0\MvcMovie.staticwebassets.runtime.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\bin\Debug\net6.0\MvcMovie.exe
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\bin\Debug\net6.0\MvcMovie.deps.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\bin\Debug\net6.0\MvcMovie.runtimeconfig.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\bin\Debug\net6.0\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\bin\Debug\net6.0\MvcMovie.pdb
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.AssemblyInfo.cs
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\refint\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.pdb
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\MvcMovie.genruntimeconfig.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\Your_best_food\obj\Debug\net6.0\ref\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\bin\Debug\net6.0\appsettings.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\bin\Debug\net6.0\MvcMovie.staticwebassets.runtime.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\bin\Debug\net6.0\MvcMovie.exe
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\bin\Debug\net6.0\MvcMovie.deps.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\bin\Debug\net6.0\MvcMovie.runtimeconfig.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\bin\Debug\net6.0\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\bin\Debug\net6.0\MvcMovie.pdb
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.AssemblyInfo.cs
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\refint\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.pdb
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.genruntimeconfig.cache
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\ref\MvcMovie.dll
