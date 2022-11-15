@@ -13,7 +13,10 @@ class Application(object):
         self.root.title("Générateur de calcul mental")
         self.largeur = largeur
         self.hauteur = hauteur
+    
+        # Show image using label
         self.root.geometry("{}x{}".format(str(largeur),str(hauteur)))
+        
 
         pre_number = random.randint(1,500)
         self.pre_number = pre_number
@@ -37,7 +40,11 @@ class Application(object):
         return correction
 
     def affichage(self):
-        self.generate = tk.Label(self.root, text=self.generate_operation(), fg=noir, height=5).pack()
+        
+        self.background = PhotoImage(file = "apercu.png")
+        tk.Label(self.root, image = self.background).place(x = -2, y = -1)
+
+        self.generate = tk.Label(self.root, text=self.generate_operation(), fg=noir).place(x = 300, y = 300)
         #ICI TU RAJOUTES LES AUTRES CHAMPS
 
 
