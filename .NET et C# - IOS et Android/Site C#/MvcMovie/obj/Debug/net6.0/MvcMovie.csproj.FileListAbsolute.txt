@@ -76,3 +76,5 @@ C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\D
 C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.pdb
 C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.genruntimeconfig.cache
 C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\ref\MvcMovie.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\alexa\Desktop\B3-dev\.NET et C# - IOS et Android\Site C#\MvcMovie\obj\Debug\net6.0\MvcMovie.csproj.CopyComplete
