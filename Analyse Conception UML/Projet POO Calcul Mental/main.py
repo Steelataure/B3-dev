@@ -65,12 +65,14 @@ class Programme(tk.Tk):
         self.Button_start = tk.Button(self, image=self.Start_image, borderwidth=0, bg=blanc, activebackground='WHITE', command=lambda:[self.getReponseUser(), self.win_condition()]).place(x=210, y=420)
             
     def affiche_compteur(self):
-        self.affiche_compteur = Label(self, text=self.compteur.getCompteur(), 
-        font=("Franklin Gothic Demi", 18), fg=noir).place(x = 300, y = 200)
+        Label(self, text=self.compteur.getCompteur(), 
+        font=("Franklin Gothic Demi", 18), fg=noir).place(x = 330, y = 150)
+        
 
     def display_update(self):
         for i in range(20):
-            self.after(1000, self.affiche_compteur)
+            self.after(1000, self.affiche_compteur())
+            print(self.getCompteur())
+
             self.update()
 
-            print(self.getCompteur())
