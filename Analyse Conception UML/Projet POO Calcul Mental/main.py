@@ -1,7 +1,8 @@
 import tkinter as tk
 from tkinter import *
-import random
-import time
+
+from Operation import *
+from Compteur import *
 
 noir = "black"
 blanc = "#f4f4f4"
@@ -18,36 +19,17 @@ class Programme(tk.Tk):
         self.hauteur = hauteur
 
         self.geometry("{}x{}".format(str(largeur),str(hauteur)))
+
+        self.operation = Operation()
+        self.compteur = Compteur()
+
+        self.affichage()
+        self.affiche_compteur()
         
-        pre_number = random.randint(1,500)
-        self.pre_number = pre_number
-
-        post_number = random.randint(1,500)
-        self.post_number = post_number
-
-        operateur = ["+", "-", "*"]
-        self.operateur = operateur
-
-        self.operateur_choice = random.choice(self.operateur)
-        operateur_choice = self.operateur_choice
-
-        self.LOSS = None
-
-    def generate_operation(self):
-        all_operation = str(self.pre_number) + self.operateur_choice + str(self.post_number)
-        return all_operation
-
     def verif_operation(self):
-        correction = eval(str(self.pre_number) + self.operateur_choice + str(self.post_number))
+        correction = eval(self.operation.generate_operation())
         return correction
-
-    def menu(self):
-        pass
-        #self.Start_image = PhotoImage(file='start.png')
-        #self.Button_start = tk.Button(self.root, image=self.Start_image, borderwidth=0, bg=blanc, activebackground=blanc, command=lambda:[root.affichage()]).place(x=205, y=300)
-
-
-        
+   
     def win_condition(self):
         if self.getReponseUser() == str(self.verif_operation()) and not self.LOSS:
             self.correction = tk.Label(self, text="Bravo, bonne réponse", fg="green", bg=blanc, font=("Franklin Gothic Demi", 18)).place(x=250, y=364)
@@ -55,21 +37,26 @@ class Programme(tk.Tk):
             self.correction = tk.Label(self, text=f"Dommage, voici la correction : {self.verif_operation()}", fg="green", bg=blanc, font=("Franklin Gothic Demi", 18)).place(x=170, y=364)
             self.LOSS = 1
 
-
     def getReponseUser(self):
         self.input_value = self.my_input.get()
         return self.input_value
 
+    def getOperation(self):
+        return self.operation.generate_operation()
+
+    def getCompteur(self):
+        return self.compteur.getCompteur()
+
 
     def affichage(self):
-
         self.background = PhotoImage(file = "assets/apercu3.png")
         tk.Label(self, image = self.background).place(x = -2, y = -1)
 
-        self.my_label = Label(self, text="Veuillez résoudre l'opération", fg="green", bg=blanc, font=("Franklin Gothic Demi", 18)).place(x=205, y=205)
+        self.my_label = Label(self, text="Veuillez résoudre l'opération", fg="green", bg=blanc, 
+        font=("Franklin Gothic Demi", 18)).place(x=205, y=205)
         
-        self.generate = Label(self, text=self.generate_operation(), font=("Franklin Gothic Demi", 18), fg=noir).place(x = 300, y = 250)
-
+        self.generate = Label(self, text=self.operation.generate_operation(), 
+        font=("Franklin Gothic Demi", 18), fg=noir).place(x = 300, y = 250)
 
         self.my_input = tk.Entry(self, width= 27, font=("Franklin Gothic Demi", 18))
         self.my_input.place(x=162, y=310, height = 40)
@@ -77,15 +64,13 @@ class Programme(tk.Tk):
         self.Start_image = PhotoImage(file='assets/start.png')
         self.Button_start = tk.Button(self, image=self.Start_image, borderwidth=0, bg=blanc, activebackground='WHITE', command=lambda:[self.getReponseUser(), self.win_condition()]).place(x=210, y=420)
             
+    def affiche_compteur(self):
+        self.affiche_compteur = Label(self, text=self.compteur.getCompteur(), 
+        font=("Franklin Gothic Demi", 18), fg=noir).place(x = 300, y = 200)
 
+    def display_update(self):
+        for i in range(20):
+            self.after(1000, self.affiche_compteur)
+            self.update()
 
-class User(): 
-    def __init__(self, pseudo):
-        self.pseudo = pseudo
-        
-
-if __name__ == "__main__":
-
-    root = Programme()
-    root.affichage()
-    root.mainloop()
+            print(self.getCompteur())
