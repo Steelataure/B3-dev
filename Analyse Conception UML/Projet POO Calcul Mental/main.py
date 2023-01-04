@@ -3,24 +3,16 @@ from tkinter import *
 
 from Operation import *
 from Compteur import *
+from Application import *
 
 noir = "black"
 blanc = "#f4f4f4"
- 
 
-class Programme(tk.Tk):
-    def __init__(self, largeur=720, hauteur=630):
-        tk.Tk.__init__(self)
-
-        self.iconbitmap('assets/logo.ico')
-        self.resizable(False, False)
-        self.title("Générateur de calcul mental")
-        self.largeur = largeur
-        self.hauteur = hauteur
-
-        self.geometry("{}x{}".format(str(largeur),str(hauteur)))
-
-        self.operation = Operation()
+class Programme(Application):
+    def __init__(self):
+        pass        
+        
+'''         self.operation = Operation()
         self.compteur = Compteur()
 
         self.affichage()
@@ -76,3 +68,4 @@ class Programme(tk.Tk):
 
             self.update()
 
+ '''
